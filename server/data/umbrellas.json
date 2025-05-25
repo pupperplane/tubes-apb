@@ -1,0 +1,6 @@
+[
+    { "id": 1, "status": "available" },
+    { "id": 2, "status": "borrowed" },
+    { "id": 3, "status": "available" }
+  ]
+  
