@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "108060138322",
+    "firebase_url": "https://weather-app-a13a01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "weather-app-a13a01",
+    "storage_bucket": "weather-app-a13a01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108060138322:android:16bed2e53788030f9af88b",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQQNJMYjyCHAwLDP9fCvNtLm3U0N_cKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
